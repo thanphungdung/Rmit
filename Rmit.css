@@ -1,0 +1,33 @@
+.student{
+    background-color: RGB(0, 0, 84);
+    display: inline-block;
+    color: white;
+
+}
+.student a{
+    color: red;
+}
+.image{
+    width: 50%;
+    height: 300px;
+}
+nav{
+
+    width: 50%;
+    display: inline-block;
+}
+
+tr th{
+    background-color: red;
+}
+
+tr td{
+    background-color: yellow;
+}
+
+.logo{
+padding-left: 45%;
+}
+
+
+
